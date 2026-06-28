@@ -1,0 +1,8 @@
+{
+  "name": "KBT LogicQuest: The Reasoning Adventure",
+  "description": "Master logic and reasoning through gamified missions, skill trees, and interactive puzzles to boost engagement and analytical skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
